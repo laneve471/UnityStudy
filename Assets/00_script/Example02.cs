@@ -48,7 +48,7 @@ public class Example02 : MonoBehaviour
         int Value = 100;
         Debug.Log("Value:" + Value);
         Debug.Log(int.MaxValue); // int의 최댓값
-        Debug.Log(int.MinValue); // int의 최좃값
+        Debug.Log(int.MinValue); // int의 최솟값
 
     }
 

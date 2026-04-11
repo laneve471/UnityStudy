@@ -48,9 +48,9 @@ public class Example03 : MonoBehaviour
         }*/
 
         // nullable
-        int? intValue01 = null;
+/*        int? intValue01 = null;
         float? floatValue01 = null;
-        double? doubleValue01 = null;
+        double? doubleValue01 = null;*/
 
 
     }
